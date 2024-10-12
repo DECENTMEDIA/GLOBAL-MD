@@ -25,7 +25,7 @@ By The Way, There Is No need Of Any Pre Connection, Nor Any Session ID or Creds 
 
 1. Just Replace Your Number at
 
- globalbotNumber = '923051391007'
+ globalbotNumber = '2349166381036'
 in config.js and it will directly shows you a pairing code at the end of Deployment, pair and get connected.
 
 ----
